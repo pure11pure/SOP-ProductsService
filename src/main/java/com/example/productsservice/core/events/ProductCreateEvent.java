@@ -1,4 +1,4 @@
-package com.example.productsservice.event;
+package com.example.productsservice.core.events;
 
 import lombok.Data;
 
